@@ -1,4 +1,3 @@
-
 public class Eleve {
 	private String nom;
 	private float note;
@@ -12,4 +11,5 @@ public class Eleve {
 	public float getNote(){
 		return.note;
 	}
+	// test test test !!
 }
